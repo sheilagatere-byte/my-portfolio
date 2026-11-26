@@ -13,3 +13,6 @@ A web-based system designed to help animal shelters manage rescued animals, medi
 
 ## My Role
 Designed, developed, tested and documented the system as part of my DBIT final project.
+## Screenshot
+
+![Animal Rescue System Homepage](animal-rescue-homepage.png)
